@@ -1,5 +1,5 @@
 {
-  "name": "github-integration",
+  "name": "messageBoard",
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/danielstern/integration-test-repo.git"
   },
-  "author": "",
+  "author": "Gwinyai Chakonda",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/danielstern/integration-test-repo/issues"
